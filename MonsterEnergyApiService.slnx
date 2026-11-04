@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MonsterEnergy.Application/MonsterEnergy.Application.csproj" />
+  <Project Path="MonsterEnergy.Domain/MonsterEnergy.Domain.csproj" />
+  <Project Path="MonsterEnergy.Infrastructure/MonsterEnergy.Infrastructure.csproj" />
+  <Project Path="MonsterEnergy.Tests/MonsterEnergy.Tests.csproj" />
+  <Project Path="MonsterEnergy.WebApi/MonsterEnergy.WebApi.csproj" />
+</Solution>
